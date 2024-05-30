@@ -1,7 +1,7 @@
 [![MasterHead](https://png.pngtree.com/background/20210709/original/pngtree-data-analysis-banner-poster-picture-image_931571.jpg)]()
 <h1 align="center">Hi 👋, I'm Akshit Singh</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/736x/c5/a4/fe/c5a4fefc4c9d69e68d243b526add1a20.jpg">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/736x/c5/a4/fe/c5a4fefc4c9d69e68d243b526add1a20.jpg"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshitsingh-data&label=Profile%20views&color=0e75b6&style=flat" alt="akshitsingh-data" /> </p>
 
