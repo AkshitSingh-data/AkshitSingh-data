@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **singhakshit558@gmail.com**
 
-- 📄 Know about my experiences [https://rb.gy/defz3o](https://rb.gy/defz3o)
+- 📄 Know about my experiences [https://shorturl.at/MXrwl](https://shorturl.at/MXrwl)
 
 - ⚡ Fun fact **I am Aloo Paratha addict**
 
