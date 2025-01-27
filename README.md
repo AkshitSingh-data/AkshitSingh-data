@@ -13,7 +13,6 @@
 
 - 📄 Know about my experiences [https://shorturl.at/MXrwl](https://shorturl.at/MXrwl)
 
-- ⚡ Fun fact **I am Aloo Paratha addict**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
