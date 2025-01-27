@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **SQL,Pandas,Numpy,Excel,Tableau**
+- 💬 Ask me about **SQL,Pandas,Numpy,Excel,Power Bi**
 
 - 📫 How to reach me **singhakshit558@gmail.com**
 
