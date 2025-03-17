@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **singhakshit558@gmail.com**
 
-- 📄 Know about my experiences [https://shorturl.at/MXrwl](https://shorturl.at/MXrwl)
+- 📄 Know about my experiences [https://shorturl.at/Jo0hc](https://shorturl.at/Jo0hc)
 
 
 <h3 align="left">Connect with me:</h3>
